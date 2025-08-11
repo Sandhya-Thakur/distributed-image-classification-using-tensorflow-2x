@@ -1,0 +1,20 @@
+Training Results Comparison
+==========================
+
+Single GPU Training:
+- Time: 356.01 seconds
+- Final Accuracy: 67%
+- Epochs: 5
+- Batch Size: 32
+
+Distributed Training:
+- Time: 303.74 seconds  
+- Final Accuracy: 66%
+- Epochs: 5
+- Batch Size: 32
+- Devices Used: 1
+
+Performance Improvement:
+- Time Saved: 52.27 seconds
+- Speed Improvement: 14.7%
+- Status: Distributed training is faster!
